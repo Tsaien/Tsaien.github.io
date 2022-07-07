@@ -35,7 +35,7 @@ pic.avatars.push(
     "https://spy-family.net/assets/img/special/episode12/06.png",
 );
 
-const titles = ["First-Grade Student", "Test Subject 007", "Telepath"];
+const titles = ["一個喜歡設計東西的人"];
 
 const about = [
     "My name is Anya Forger. I am 6 years old now!",
