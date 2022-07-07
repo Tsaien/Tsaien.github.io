@@ -39,7 +39,6 @@ const titles = ["一個喜歡設計東西的人"];
 
 const about = [
     "My name is Anya Forger. I am 6 years old now!",
-    "I am studing in Cecile Hall at Eden Academy.",
     "",
     "This summer I went to NTNU CSIE Camp to learn how to code.",
     "During the camp, I learned how to: ",
