@@ -2,9 +2,9 @@
 import { pic } from "../anya";
 
 const links = [
-    { text: "Anya", url: "/" },
-    { text: "About", url: "/about" },
-    { text: "Projects", url: "/projects" },
+    { text: "蔡庭恩", url: "/" },
+    { text: "關於我", url: "/about" },
+    { text: "成果", url: "/projects" },
 ];
 </script>
 
@@ -55,7 +55,7 @@ const links = [
             >
                 <img
                     :src="pic.uniform"
-                    class="w-full translate-y-12 scale-[180%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-14 md:hover:pt-7"
+                    class="top-0 translate-y-12 scale-[300%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-14 md:hover:pt-7"
                 />
             </div>
         </transition>

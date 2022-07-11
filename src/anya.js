@@ -1,8 +1,8 @@
 const pic = {
-    uniform: "https://spy-family.net/assets/img/common/header_bottomimg_3.png",
+    uniform: "https://i.ibb.co/sFRcfY5/1.jpg",
     icecream: "https://spy-family.net/assets/img/common/header_bottomimg_3_family.png",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
-    casual_large: "https://spy-family.net/assets/img/top/chara_anya_2.png",
+    casual_large: "https://i.ibb.co/28JyjK1/20220423-151835.jpg",
     avatars: [],
 };
 

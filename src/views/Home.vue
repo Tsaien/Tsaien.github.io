@@ -21,11 +21,11 @@ const width = screen.width;
                 <a
                     v-if="step > 1"
                     class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
-                    href="https://github.com/anya-forger"
+                    href="https://www.facebook.com/profile.php?id=100076155934528"
                     target="_blank"
                 >
                     <MdiGithub class="mr-1 inline-block" />
-                    <Typing v-if="step > 1" @done="step++" text="GitHub" :speed="60" />
+                    <Typing v-if="step > 1" @done="step++" text="Facebook" :speed="60" />
                 </a>
                 <a
                     v-if="step > 2"
