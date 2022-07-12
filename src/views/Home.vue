@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-import MdiGithub from "~icons/mdi/github";
+import MdiGithub from "~icons/mdi/facebook";
 import MdiInstagram from "~icons/mdi/instagram";
 import { pic, titles } from "../anya";
 import Typing from "../components/Typing.vue";
@@ -30,7 +30,7 @@ const width = screen.width;
                 <a
                     v-if="step > 2"
                     class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
-                    href="https://www.instagram.com/spy_family_official/"
+                    href="https://www.instagram.com/to_obytsai/"
                     target="_blank"
                 >
                     <MdiInstagram class="mr-1 inline-block" />

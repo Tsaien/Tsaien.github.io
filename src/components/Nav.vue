@@ -53,9 +53,9 @@ const links = [
                 class="absolute top-4 left-4 z-50 h-20 w-20 overflow-hidden rounded-full bg-pink-200 shadow-md shadow-blue-300 ring-1 ring-violet-700 md:h-24 md:w-24"
                 v-if="$route.path !== '/about'"
             >
-                <img
+                <img style="margin: -68px 20px 25px -1px;"
                     :src="pic.uniform"
-                    class="top-0 translate-y-12 scale-[300%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-14 md:hover:pt-7"
+                    class="w-full translate-y-12 scale-[120%] transition-all duration-200 hover:rounded-xl hover:pt-5 md:translate-y-14 md:hover:pt-7"
                 />
             </div>
         </transition>

@@ -1,5 +1,5 @@
 const pic = {
-    uniform: "https://i.ibb.co/sFRcfY5/1.jpg",
+    uniform: "https://i.ibb.co/Fgv2qJn/Smart-Select-20220712-195900.png",
     icecream: "https://spy-family.net/assets/img/common/header_bottomimg_3_family.png",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
     casual_large: "https://i.ibb.co/28JyjK1/20220423-151835.jpg",
