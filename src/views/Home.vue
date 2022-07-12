@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from "vue";
 import MdiGithub from "~icons/mdi/facebook";
-import MdiInstagram from "~icons/mdi/instagram";
+import MdiInstagram from "~icons/mdi/github";
 import { pic, titles } from "../anya";
 import Typing from "../components/Typing.vue";
 
@@ -30,11 +30,11 @@ const width = screen.width;
                 <a
                     v-if="step > 2"
                     class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
-                    href="https://www.instagram.com/to_obytsai/"
+                    href="https://github.com/Tsaien/Tsaien.github.io"
                     target="_blank"
                 >
                     <MdiInstagram class="mr-1 inline-block" />
-                    <Typing v-if="step > 2" @done="step++" text="Instagram" :speed="60" />
+                    <Typing v-if="step > 2" @done="step++" text="Github" :speed="60" />
                 </a>
             </div>
             <div class="w-full overflow-hidden drop-shadow-2xl">
