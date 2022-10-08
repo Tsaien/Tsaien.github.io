@@ -1,5 +1,5 @@
 <script setup>
-import { projects } from "../anya";
+import { projects } from "../toby";
 import Typing from "../components/Typing.vue";
 import Project from "../components/Project.vue";
 

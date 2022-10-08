@@ -2,7 +2,7 @@
 import { ref } from "vue";
 import MdiGithub from "~icons/mdi/facebook";
 import MdiInstagram from "~icons/mdi/github";
-import { pic, titles } from "../anya";
+import { pic, titles } from "../toby";
 import Typing from "../components/Typing.vue";
 
 let step = ref(0);

@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-import { pic, about } from "../anya";
+import { pic, about } from "../toby";
 import Typing from "../components/Typing.vue";
 
 function open(url) {
@@ -45,7 +45,7 @@ function update(delay = 0) {
                 v-if="step > 0"
                 @done="step++"
                 class="flex-1 md:mx-4"
-                @click="open('https://spy-family.net/')"
+                
             />
         </div>
         <Typing
@@ -74,7 +74,7 @@ function update(delay = 0) {
                         v-show="step > 1 + i"
                         :src="pic.avatars[i]"
                         class="w-full cursor-pointer transition-all hover:scale-125"
-                        @click="open('https://spy-family.net/#tSpecial')"
+                        
                     />
                 </transition>
             </div>

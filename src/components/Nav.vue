@@ -1,5 +1,5 @@
 <script setup>
-import { pic } from "../anya";
+import { pic } from "../toby";
 
 const links = [
     { text: "蔡庭恩", url: "/" },
